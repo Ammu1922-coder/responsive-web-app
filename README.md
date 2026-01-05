@@ -1,2 +1,6 @@
-# responsive-web-app
-A responsive and optimized web application built using HTML, CSS, and JavaScript. Includes dynamic content rendering, performance optimization, and cross-browser compatibility.
+## Features
+- Responsive design for desktop and mobile devices
+- Dynamic content using JavaScript
+- Lazy loading for images
+- Optimized CSS and JavaScript
+- Cross-browser compatibility (Chrome, Firefox, Safari)
